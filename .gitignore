@@ -29,9 +29,9 @@ venv/
 ENV/
 env/
 
-# Dataset Files
-cardd-*/
-car_damage_yolo_dataset/
+# Dataset Files (commented out to allow pushing dataset)
+# cardd-*/
+# car_damage_yolo_dataset/
 *.zip
 *.tar.gz
 
